@@ -1,7 +1,13 @@
 Version : 1.0.4.0b (Not released yet)
 
+Added :
+* Made Github folder containg box numbers in json format holding their partnumbers for lookup inside the apps structure.
+* Boxes and Bags now have all their parts including price and availability when Playmobil has them listed and checked vs the Github files.
 * Started adding menu items.
 * Building method to add Bullets.
-* Building method to add a divider line 
+* Building method to add a divider line
+
+Fixes :
+* Fixed prices not updating of boxes and bags after a new search propperly when item is not listed.
 
 ----
