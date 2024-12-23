@@ -10,5 +10,4 @@ Added :
 
 Fixes :
 * Fixed prices not updating the boxes and bags info after a new search when an item is not available on Playmobil.
-
 ----
