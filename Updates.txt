@@ -1,5 +1,7 @@
 Version : 1.0.4.0
 
 * Started adding menu items.
+* Building method to replace * to Bullets.
+* Building method to add a divider line 
 
 ----
