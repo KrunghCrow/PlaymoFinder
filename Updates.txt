@@ -1,3 +1,9 @@
+Version : 1.0.5.0b (not released yet)
+
+Added :
+* Adding backup images for boxes and parts when not available (wip) through Github
+----
+
 Version : 1.0.4.0
 
 Added :
