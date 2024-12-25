@@ -4,6 +4,9 @@ Added :
 * Adding backup images for boxes and parts when not available (wip) through Github.
 * Creating and adding custom image and methods for parts without images (filehosting).
 * Added checks for duplicate file entries to avoid duplicate listing of parts.
+
+Fixes :
+* Fixed duplicate entries in the parts lists even when source file has them.
 ----
 
 Version : 1.0.4.0
