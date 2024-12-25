@@ -7,6 +7,9 @@ Added :
 
 Fixes :
 * Fixed duplicate entries in the parts lists even when source file has them.
+
+Patches :
+25/12/2024 : Added 13 newly created alternate images of parts and sets
 ----
 
 Version : 1.0.4.0
