@@ -1,4 +1,4 @@
-Version : 1.0.5.0b (not released yet)
+Version : 1.0.5.0 (release)
 
 Added :
 * Adding backup images for boxes and parts when not available (wip) through Github.
@@ -9,10 +9,11 @@ Fixes :
 * Fixed duplicate entries in the parts lists even when source file has them.
 
 Patches :
-25/12/2024 : Added 13 newly created alternate images of parts and sets
+* 25/12/2024 : Added 13 newly created alternate images of parts and sets.
+* 25/12/2024 : Added 5 boxes to the Github repo.
 ----
 
-Version : 1.0.4.0
+Version : 1.0.4.0 (release)
 
 Added :
 * Made Github folder containg box numbers in json format holding their partnumbers for lookup inside the apps structure.
