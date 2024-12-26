@@ -1,12 +1,24 @@
+Patches :
+
+26/12/2024 : 11 nieuw gecreëerde alternatieve afbeeldingen van onderdelen toegevoegd.
+----
+Versie: 1.0.6.0 (nog niet released)
+
+Toegevoegd :
+* Layout optimalisatie.
+
+Opgelost :
+* Scrollfunctie van de onderdelenlijst is nu werkende.
+----
 Versie: 1.0.5.0 (release)
 
-Toegevoegd:
+Toegevoegd :
 
 * Back-up afbeeldingen voor dozen en onderdelen toegevoegd wanneer deze niet beschikbaar zijn (in ontwikkeling) via Github.
 * Aangepaste afbeeldingen en methodes gecreëerd en toegevoegd voor onderdelen zonder afbeeldingen (filehosting).
 * Controles toegevoegd om dubbele bestandsvermeldingen te voorkomen en dubbele lijsten van onderdelen te vermijden.
 
-Opgelost:
+Opgelost :
 
 * Dubbele vermeldingen in de onderdelenlijsten opgelost, zelfs wanneer de bronbestanden deze bevatten.
 
@@ -15,9 +27,9 @@ Patches:
 25/12/2024: 13 nieuw gecreëerde alternatieve afbeeldingen van onderdelen en sets toegevoegd.
 25/12/2024: 5 dozen toegevoegd aan de Github-repo.
 ----
-Versie: 1.0.4.0 (release)
+Versie : 1.0.4.0 (release)
 
-Toegevoegd:
+Toegevoegd :
 
 * Github-map gemaakt die doosnummers bevat in JSON-formaat met hun bijbehorende onderdelen, voor opzoeking binnen de appstructuur.
 * Dozen en zakken tonen nu al hun onderdelen, inclusief prijs en beschikbaarheid, wanneer Playmobil deze vermeldt en deze zijn gecontroleerd via de Github-bestanden.
@@ -26,7 +38,7 @@ Toegevoegd:
 * Methode ontwikkeld om bullets toe te voegen.
 * Methode ontwikkeld om een scheidingslijn toe te voegen.
 
-Opgelost:
+Opgelost :
 
 * Prijzen die niet werden bijgewerkt in de informatie van dozen en zakken na een nieuwe zoekopdracht wanneer een item niet beschikbaar is op Playmobil, opgelost.
 ----
