@@ -1,4 +1,3 @@
-
 Versie: 1.0.5.0 (release)
 
 Toegevoegd:
@@ -8,7 +7,9 @@ Toegevoegd:
 * Controles toegevoegd om dubbele bestandsvermeldingen te voorkomen en dubbele lijsten van onderdelen te vermijden.
 
 Opgelost:
+
 * Dubbele vermeldingen in de onderdelenlijsten opgelost, zelfs wanneer de bronbestanden deze bevatten.
+
 Patches:
 
 25/12/2024: 13 nieuw gecreëerde alternatieve afbeeldingen van onderdelen en sets toegevoegd.
