@@ -1,11 +1,14 @@
 Patches :
 
+27/12/2024 : 4 dozen toegevoegd aan de Github-repo (advents kalenders).
+27/12/2024 : 1 doos (71344) toegevoegd aan de Github-repo (onderdeel nummers handmatig ingevoerd).
 26/12/2024 : 11 nieuw gecreëerde alternatieve afbeeldingen van onderdelen toegevoegd.
 ----
 Versie: 1.0.6.0 (nog niet released)
 
 Toegevoegd :
 * Layout optimalisatie.
+* 1 item in de switched item lijst toegevoegd (verkeerde afbeelding op playmobil website was gebruikt)
 
 Opgelost :
 * Scrollfunctie van de onderdelenlijst is nu werkende.
