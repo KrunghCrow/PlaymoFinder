@@ -1,5 +1,5 @@
 Patches :
-28/12/2024 : 2 dozen (7445 - 71483) toegevoegd aan de Github-repo (onderdeel nummers handmatig ingevoerd).
+28/12/2024 : 3 dozen (7445 - 71483 - 71484) toegevoegd aan de Github-repo (onderdeel nummers handmatig ingevoerd).
 27/12/2024 : 4 dozen toegevoegd aan de Github-repo (advents kalenders).
 27/12/2024 : 2 dozen (71344 - 70636) toegevoegd aan de Github-repo (onderdeel nummers handmatig ingevoerd).
 26/12/2024 : 11 nieuw gecreëerde alternatieve afbeeldingen van onderdelen toegevoegd.
