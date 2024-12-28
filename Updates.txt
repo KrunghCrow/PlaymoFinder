@@ -9,7 +9,8 @@ Versie: 1.0.6.0 (nog niet released)
 
 Toegevoegd :
 * Layout optimalisatie.
-* 1 item in de switched item lijst toegevoegd (verkeerde afbeelding op playmobil website was gebruikt)
+* 1 item in de switched item lijst toegevoegd (verkeerde afbeelding op playmobil website was gebruikt).
+* Info code in een kleinere popupbox geplaatst.
 
 Opgelost :
 * Scrollfunctie van de onderdelenlijst is nu werkende.
