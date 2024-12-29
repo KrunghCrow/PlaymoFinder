@@ -13,6 +13,7 @@ Toegevoegd :
 * Info code in een kleinere popupbox geplaatst.
 * Achtergrondafbeelding toegevoegd in de updates en info panelbox.
 
+
 Opgelost :
 * Scrollfunctie van de onderdelenlijst is nu werkende.
 ----
