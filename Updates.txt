@@ -7,25 +7,17 @@ Patches :
 ----
 Versie: 1.0.6.0 (nog niet released)
 
-Toegevoegd :
 * Layout optimalisatie.
 * 1 item in de switched item lijst toegevoegd (verkeerde afbeelding op playmobil website was gebruikt).
 * Info code in een kleinere popupbox geplaatst.
 * Achtergrondafbeelding toegevoegd in de updates en info panelbox.
-
-
-Opgelost :
 * Scrollfunctie van de onderdelenlijst is nu werkende.
 ----
 Versie: 1.0.5.0 (release)
 
-Toegevoegd :
 * Back-up afbeeldingen voor dozen en onderdelen toegevoegd wanneer deze niet beschikbaar zijn (in ontwikkeling) via Github.
 * Aangepaste afbeeldingen en methodes gecreëerd en toegevoegd voor onderdelen zonder afbeeldingen (filehosting).
 * Controles toegevoegd om dubbele bestandsvermeldingen te voorkomen en dubbele lijsten van onderdelen te vermijden.
-
-
-Opgelost :
 * Dubbele vermeldingen in de onderdelenlijsten opgelost, zelfs wanneer de bronbestanden deze bevatten.
 
 
@@ -42,8 +34,5 @@ Toegevoegd :
 * Begonnen met het toevoegen van menu-items.
 * Methode ontwikkeld om bullets toe te voegen.
 * Methode ontwikkeld om een scheidingslijn toe te voegen.
-
-
-Opgelost :
 * Prijzen die niet werden bijgewerkt in de informatie van dozen en zakken na een nieuwe zoekopdracht wanneer een item niet beschikbaar is op Playmobil, opgelost.
 ----
