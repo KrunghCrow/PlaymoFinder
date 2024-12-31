@@ -1,9 +1,11 @@
 ----
-28/12/2024 : 3 dozen (7445 - 71483 - 71484) toegevoegd aan de Github-repo (onderdeel nummers handmatig ingevoerd).
-28/12/2024 : 17 dozen toegevoegd aan de Github-repo.
-27/12/2024 : 4 dozen toegevoegd aan de Github-repo (advents kalenders).
-27/12/2024 : 2 dozen (71344 - 70636) toegevoegd aan de Github-repo (onderdeel nummers handmatig ingevoerd).
-26/12/2024 : 11 nieuw gecreëerde alternatieve afbeeldingen van onderdelen toegevoegd.
+* 31/12/2024 : 25 nieuw gecreëerde alternatieve afbeeldingen van onderdelen toegevoegd.
+* 31/12/2024 : 2 nieuw gecreëerde alternatieve afbeeldingen van onderdelen geupdate.
+* 28/12/2024 : 3 dozen (7445 - 71483 - 71484) toegevoegd aan de Github-repo (onderdeel nummers handmatig ingevoerd).
+* 28/12/2024 : 17 dozen toegevoegd aan de Github-repo.
+* 27/12/2024 : 4 dozen toegevoegd aan de Github-repo (advents kalenders).
+* 27/12/2024 : 2 dozen (71344 - 70636) toegevoegd aan de Github-repo (onderdeel nummers handmatig ingevoerd).
+* 26/12/2024 : 11 nieuw gecreëerde alternatieve afbeeldingen van onderdelen toegevoegd.
 ----
 Versie: 1.0.6.0 (nog niet released)
 * Layout optimalisatie.
@@ -17,8 +19,8 @@ Versie: 1.0.5.0 (release)
 * Aangepaste afbeeldingen en methodes gecreëerd en toegevoegd voor onderdelen zonder afbeeldingen (filehosting).
 * Controles toegevoegd om dubbele bestandsvermeldingen te voorkomen en dubbele lijsten van onderdelen te vermijden.
 * Dubbele vermeldingen in de onderdelenlijsten opgelost, zelfs wanneer de bronbestanden deze bevatten.
-25/12/2024: 13 nieuw gecreëerde alternatieve afbeeldingen van onderdelen en sets toegevoegd.
-25/12/2024: 5 dozen toegevoegd aan de Github-repo.
+* 25/12/2024: 13 nieuw gecreëerde alternatieve afbeeldingen van onderdelen en sets toegevoegd.
+* 25/12/2024: 5 dozen toegevoegd aan de Github-repo.
 ----
 Versie : 1.0.4.0 (release)
 * Github-map gemaakt die doosnummers bevat in JSON-formaat met hun bijbehorende onderdelen, voor opzoeking binnen de appstructuur.
