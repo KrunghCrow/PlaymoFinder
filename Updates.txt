@@ -1,4 +1,6 @@
 ----
+* 01/01/2025 : 21 nieuw gecreëerde alternatieve afbeeldingen van onderdelen toegevoegd.
+* 01/01/2025 : 2x dozen met onderdeelnummers geupdate.
 * 31/12/2024 : 25 nieuw gecreëerde alternatieve afbeeldingen van onderdelen toegevoegd.
 * 31/12/2024 : 2 nieuw gecreëerde alternatieve afbeeldingen van onderdelen geupdate.
 * 28/12/2024 : 3 dozen (7445 - 71483 - 71484) toegevoegd aan de Github-repo (onderdeel nummers handmatig ingevoerd).
