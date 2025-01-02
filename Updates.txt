@@ -1,4 +1,10 @@
-----
+Versie: 1.0.6.0 (release)
+* Layout optimalisatie.
+* 1 item in de switched item lijst toegevoegd (verkeerde afbeelding op playmobil website was gebruikt).
+* Info code in een kleinere popupbox geplaatst.
+* Achtergrondafbeelding toegevoegd in de updates en info panelbox.
+* Scrollfunctie van de onderdelenlijst is nu werkende.
+--------
 * 01/01/2025 : 21 nieuw gecreëerde alternatieve afbeeldingen van onderdelen toegevoegd.
 * 01/01/2025 : 2x dozen met onderdeelnummers geupdate.
 * 01/01/2025 : Verscheidene afbeeldingen aangepast inclusief die van alternatieve onderdelen.
@@ -9,13 +15,6 @@
 * 27/12/2024 : 4 dozen toegevoegd aan de Github-repo (advents kalenders).
 * 27/12/2024 : 2 dozen (71344 - 70636) toegevoegd aan de Github-repo (onderdeel nummers handmatig ingevoerd).
 * 26/12/2024 : 11 nieuw gecreëerde alternatieve afbeeldingen van onderdelen toegevoegd.
-----
-Versie: 1.0.6.0 (nog niet released)
-* Layout optimalisatie.
-* 1 item in de switched item lijst toegevoegd (verkeerde afbeelding op playmobil website was gebruikt).
-* Info code in een kleinere popupbox geplaatst.
-* Achtergrondafbeelding toegevoegd in de updates en info panelbox.
-* Scrollfunctie van de onderdelenlijst is nu werkende.
 ----
 Versie: 1.0.5.0 (release)
 * Back-up afbeeldingen voor dozen en onderdelen toegevoegd wanneer deze niet beschikbaar zijn (in ontwikkeling) via Github.
