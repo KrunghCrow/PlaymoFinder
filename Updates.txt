@@ -1,4 +1,8 @@
 ----
+* 02/01/2025 : 26 nieuw gecreëerde alternatieve afbeeldingen van onderdelen en clicky's toegevoegd.
+* 02/01/2025 : 2 nieuw gecreëerde alternatieve afbeeldingen van kastelen (3666 3667) toegevoegd.
+* 02/01/2025 : 2 afbeeldingen van onderdelen vernieuwd.
+----
 Versie: 1.0.6.0 (release)
 * Layout optimalisatie.
 * 1 item in de switched item lijst toegevoegd (verkeerde afbeelding op playmobil website was gebruikt).
