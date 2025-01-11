@@ -3,6 +3,7 @@
 * 10/01/2025 : 1 nieuw gecreëerde alternatieve afbeelding van Kleerrmakers huis (3440) toegevoegd.
 * 10/01/2025 : 20 nieuw gecreëerde alternatieve afbeeldingen van onderdelen toegevoegd.
 * 10/01/2025 : onderdeelnummer 30028750 (ladder, handmatig ingevoerd, niet in onderdelenlijst gevonden).
+* 10/01/2025 : 2 nieuw gecreëerde alternatieve afbeeldingen van clicky's toegevoegd (box 70956).
 ----
 Versie: 1.0.7.0b (nog niet gereleased)
 * Achtergrondafbeelding toegevoegd voor de hoofdpagina.
