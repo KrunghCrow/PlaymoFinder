@@ -1,4 +1,12 @@
 ----
+* 10/01/2025 : 1 doos (3440) toegevoegd aan de Github-repo.
+* 10/01/2025 : 1 nieuw gecreëerde alternatieve afbeelding van Kleerrmakers huis (3440) toegevoegd.
+* 10/01/2025 : 20 nieuw gecreëerde alternatieve afbeeldingen van onderdelen toegevoegd.
+----
+Versie: 1.0.7.0b (nog niet gereleased)
+* Achtergrondafbeelding toegevoegd voor de hoofdpagina.
+* Afbeeldings download methode geupdate.
+----
 * 02/01/2025 : 26 nieuw gecreëerde alternatieve afbeeldingen van onderdelen en clicky's toegevoegd.
 * 02/01/2025 : 2 nieuw gecreëerde alternatieve afbeeldingen van kastelen (3666 3667) toegevoegd.
 * 02/01/2025 : 2 afbeeldingen van onderdelen vernieuwd.
