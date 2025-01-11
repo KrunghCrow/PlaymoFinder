@@ -2,6 +2,7 @@
 * 10/01/2025 : 1 doos (3440) toegevoegd aan de Github-repo.
 * 10/01/2025 : 1 nieuw gecreëerde alternatieve afbeelding van Kleerrmakers huis (3440) toegevoegd.
 * 10/01/2025 : 20 nieuw gecreëerde alternatieve afbeeldingen van onderdelen toegevoegd.
+* 10/01/2025 : onderdeelnummer 30028750 (ladder, handmatig ingevoerd, niet in onderdelenlijst gevonden).
 ----
 Versie: 1.0.7.0b (nog niet gereleased)
 * Achtergrondafbeelding toegevoegd voor de hoofdpagina.
