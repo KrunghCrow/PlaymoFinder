@@ -1,4 +1,9 @@
 ----
+Versie: 1.0.7.0 (release)
+* Achtergrondafbeelding toegevoegd voor de hoofdpagina.
+* Onderdelen panel transparant gemaakt.
+* Afbeeldings download methode geupdate.
+----
 * 14/01/2025 : 26 dozen (nieuwe sets van 2025) toegevoegd aan de Github-repo (onderdeel nummers handmatig ingevoerd).
 * 12/01/2025 : 4 dozen (71847 - 71742 - 71825 - 71846) toegevoegd aan de Github-repo (onderdeel nummers handmatig ingevoerd).
 * 10/01/2025 : 1 doos (3440) toegevoegd aan de Github-repo.
@@ -6,11 +11,6 @@
 * 10/01/2025 : 20 nieuw gecreëerde alternatieve afbeeldingen van onderdelen toegevoegd.
 * 10/01/2025 : onderdeelnummer 30028750 (ladder, handmatig ingevoerd, niet in onderdelenlijst gevonden).
 * 10/01/2025 : 2 nieuw gecreëerde alternatieve afbeeldingen van clicky's toegevoegd (box 70956).
-----
-Versie: 1.0.7.0b (nog niet gereleased)
-* Achtergrondafbeelding toegevoegd voor de hoofdpagina.
-* Onderdelen panel transparant gemaakt.
-* Afbeeldings download methode geupdate.
 ----
 * 02/01/2025 : 26 nieuw gecreëerde alternatieve afbeeldingen van onderdelen en clicky's toegevoegd.
 * 02/01/2025 : 2 nieuw gecreëerde alternatieve afbeeldingen van kastelen (3666 3667) toegevoegd.
