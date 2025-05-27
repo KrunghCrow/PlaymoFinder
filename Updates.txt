@@ -1,5 +1,5 @@
 ----
-Versie: 1.0.8.0 (beta)
+Versie: 1.0.8.0 (release)
 * Fix voor prijsweergave voor single partnummers
 * 26/04/2025 : Inputfield vergroot van 25 naar 30.
 * 26/04/2025 : Lettergroote inputfield gezet op 16.
