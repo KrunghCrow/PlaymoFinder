@@ -4,7 +4,8 @@ Versie: 1.0.8.0 (release)
 * 26/04/2025 : Inputfield vergroot van 25 naar 30.
 * 26/04/2025 : Lettergroote inputfield gezet op 16.
 * 26/04/2025 : Zoekknop vergroot en kleur aangepast (groen).
-----Versie: 1.0.7.0 (release)
+----
+Versie: 1.0.7.0 (release)
 * Achtergrondafbeelding toegevoegd voor de hoofdpagina.
 * Onderdelen panel transparant gemaakt.
 * Afbeeldings download methode geupdate.
