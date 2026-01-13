@@ -1,5 +1,8 @@
 ----
 Versie: 1.1.0.0 (beta test)
+* 13/01/2026 Instelling toegevoegd.
+* 13/01/2026 Watchlist toegevoegd.
+* 13/01/2026 Favorieten toegevoegd.
 * 13/01/2026 Artikel afbeelding weergave geoptimaliseert.
 * 13/01/2026 Layout info panel aangepast en avatar toegevoegd.
 * 13/01/2026 Tekst kan nu geselecteerd worden (copy/paste).
