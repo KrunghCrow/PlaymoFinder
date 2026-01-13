@@ -1,10 +1,11 @@
 ----
 Versie: 1.1.0.0 (beta test)
-* Layout info panel aangepast en avatar toegevoegd.
-* Tekst kan nu geselecteerd worden (copy/paste).
-* Updates en Info paginas : code geoptimaliseert.
-* Geswitched naar Playmobil thema (kleuren).
-* Layout van de app aangepast (Kleuren/borders/knoppen/menu).
+* 13/01/2026 Layout info panel aangepast en avatar toegevoegd.
+* 13/01/2026 Tekst kan nu geselecteerd worden (copy/paste).
+* 13/01/2026 Updates en Info paginas : code geoptimaliseert.
+* 13/01/2026 Geswitched naar Playmobil thema (kleuren).
+* 13/01/2026 Layout van de app aangepast (Kleuren/borders/knoppen/menu).
+* 13/01/2026 Duitse prijs weergave verwijderd.
 ----
 Versie: 1.0.8.0 (release)
 * Fix voor prijsweergave voor single partnummers.
