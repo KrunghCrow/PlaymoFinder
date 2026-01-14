@@ -1,5 +1,6 @@
 ----
 Versie: 1.1.0.0 (beta test)
+* 14/01/2026 Thema systeem toegevoegd.
 * 13/01/2026 Instelling toegevoegd.
 * 13/01/2026 Watchlist toegevoegd.
 * 13/01/2026 Favorieten toegevoegd.
