@@ -1,5 +1,6 @@
 ----
 Versie: 1.1.0.0 (beta test)
+* 16/01/2026 Fix voor niet weergegeven onderdeelnummers.
 * 16/01/2026 Geheugengebruik optimalisatie.
 * 16/01/2026 Favoriet en watchlist buttons/icons toegevoegd.
 * 16/01/2026 Niet gevonden plaatje van hoofdartikel wordt nu ook vervangen door ons eigen afbeelding.
