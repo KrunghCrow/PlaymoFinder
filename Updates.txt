@@ -1,6 +1,7 @@
 ----
 Versie: 1.1.0.0 (beta test)
 * 16/01/2026 Favoriet en watchlist buttons/icons toegevoegd.
+* 16/01/2026 Niet gevonden plaatje van hoofdartikel wordt nu ook vervangen door ons eigen afbeelding.
 * 16/01/2026 Standaard niet gevonden plaatje wordt vervangen door ons eigen afbeelding.
 * 14/01/2026 Thema systeem toegevoegd.
 * 13/01/2026 Instelling toegevoegd.
