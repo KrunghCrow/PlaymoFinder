@@ -1,5 +1,6 @@
 ----
-Versie: 1.1.0.0 (beta test)
+Versie: 1.1.0.0 (release)
+* 17/01/2026 Build klaar voor release met versie v1.1.0.0.
 * 16/01/2026 Fix voor niet weergegeven onderdeelnummers.
 * 16/01/2026 Geheugengebruik optimalisatie.
 * 16/01/2026 Favoriet en watchlist buttons/icons toegevoegd.
