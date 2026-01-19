@@ -1,5 +1,7 @@
 ----
-19/01/2026 : Dozen (x2) toegevoegd (71952,71873)
+23-49
+19/01/2026 : 27 Dozen toegevoegd (6923 t/m 6949)
+19/01/2026 : 2 Dozen toegevoegd (71952,71873)
 ----
 Versie: 1.1.0.0 (release)
 * 17/01/2026 Build klaar voor release met versie v1.1.0.0.
