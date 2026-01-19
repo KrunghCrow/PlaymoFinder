@@ -1,5 +1,6 @@
 ----
 Versie 1.1.1.0 (Beta versie)
+* 20/01/2026 72027 en 72028 aan de switched item lijst toegevoegd (verkeerde afbeelding op playmobil website was gebruikt).
 * 19/01/2026 Thema stuctuur toegevoegd aan de dozen.
 * 19/01/2026 Uitgave datum stuctuur toegevoegd aan de dozen.
 ----
